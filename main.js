@@ -24,9 +24,9 @@ $(".fa-times").click(function() {
 // var hamburger = $(".fa-bars")
 //
 // hamburger.click(function() {
-//     $(".hamburger-menu").addClass("show");
+//     $(".hamburger-menu").addClass("active");
 // })
 // // quando clicco sulla X scompare
 // $(".fa-times").click(function() {
-//     $(".hamburger-menu").removeClass("show");
+//     $(".hamburger-menu").removeClass("active");
 // })
